@@ -4,7 +4,7 @@
  * Copyright (c) 2011 Jacob Swartwood
  */
 
-var sys = require('sys'), 
+var sys = require('util'), 
 	http = require('http'),
 	fs = require('fs');
 
